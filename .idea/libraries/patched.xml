@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="patched">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Minecraft Server for java/cache/patched.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Minecraft Server for java/cache/patched.jar!/" />
+    </SOURCES>
+  </library>
+</component>

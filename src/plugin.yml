@@ -1,0 +1,9 @@
+name: MagicPlates
+author: novastosha
+main: dev.nova.magicplates.MagicPlates
+version: 0.1 UNDER-DEVELOPMENT
+commands:
+  magicplates:
+    description: Main command to use this plugin
+    aliases: magicplate
+

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MagicPlates">
+    <output-path>$PROJECT_DIR$/../Minecraft Server for java/plugins</output-path>
+    <root id="archive" name="MagicPlates.jar">
+      <element id="module-output" name="MagicPlates" />
+    </root>
+  </artifact>
+</component>
